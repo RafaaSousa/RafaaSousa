@@ -1,4 +1,5 @@
 # 👋Hello World ! I am Rafael Sousa 
+> "Good software, like wine, takes time." - joel spolsky
 
 ## 💫 About Me:
 - 🌱 I’m currently learning: JavaScript
