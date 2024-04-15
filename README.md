@@ -4,7 +4,7 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning: JavaScript
 - 💬 Ask me about: Developer Front-End
-- 📫 How to reach me: https://www.linkedin.com/in/rafael-sousa-a64051155/
+- 📫 How to reach me: https://rafaasousa.github.io/portfolio/
 
 ## 🌐 Socials:
 [<img align="left" alt="rafaelsousa | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/www.linkedin.com/in/rafael-sousa-a64051155)
