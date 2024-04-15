@@ -2,7 +2,7 @@
 > "Good software, like wine, takes time." - joel spolsky
 
 ## 💫 About Me:
-- 🌱 I’m currently learning: JavaScript
+- 🌱 I’m currently learning: React
 - 💬 Ask me about: Developer Front-End
 - 📫 How to reach me: https://rafaasousa.github.io/portfolio/
 
