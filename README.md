@@ -1,4 +1,4 @@
-# 👋Hello World ! I am Rafael Sousa 
+# 👋Hello World ! I am Rafael Pedra 
 > "Good software, like wine, takes time." - joel spolsky
 
 ## 💫 About Me:
